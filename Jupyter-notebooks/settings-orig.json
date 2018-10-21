@@ -1,0 +1,6 @@
+{"workspace": {
+   "id"                  : "test_id",
+   "authorization_token" : "test_token",
+   "api_endpoint"        : "api_endpoint",
+   "management_endpoint" : "management_endpoint"
+}}
