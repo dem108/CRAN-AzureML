@@ -1,0 +1,8 @@
+# settings.json has credentials, not to publish. Guideline to update this file is published instead.
+settings.json
+
+# R Markdown Notebook is not to publish yet
+R-markdown-notebooks/
+
+# Other VS Code related files
+.vs/
