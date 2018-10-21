@@ -4,5 +4,8 @@ settings.json
 # R Markdown Notebook is not to publish yet
 R-markdown-notebooks/
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
 # Other VS Code related files
 .vs/
